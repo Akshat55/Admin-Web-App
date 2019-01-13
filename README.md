@@ -30,31 +30,45 @@ MongoDB stores:
 
 
 ## Images
-![Landing](/images/landing-page.JPG)
 #### Landing Page
-![Login](/images/login.JPG)
+![Landing](/images/landing-page.JPG)
+
 #### Login
-![Register](/images/register.JPG)
+![Login](/images/login.JPG)
+
 #### Register
-![About landing](/images/about-1.JPG)
+![Register](/images/register.JPG)
+  
 #### About Page
-![About comments](/images/about-2.JPG)
+![About landing](/images/about-1.JPG)
+  
 #### About Page - Comment section
-![About comment reply](/images/about-3.JPG)
+![About comments](/images/about-2.JPG)
+  
 #### About Page - Comment reply
-![Menu](/images/menu.JPG)
+![About comment reply](/images/about-3.JPG)
+  
 #### Menu
-![Edit Profile](/images/edit-profile.JPG)
+![Menu](/images/menu.JPG)
+  
 #### Edit Account information (update password)
-![All Employees](/images/all-employees.JPG)
+![Edit Profile](/images/edit-profile.JPG)
+  
 #### All Employees
-![Create Employee](/images/add-employee.JPG)
+![All Employees](/images/all-employees.JPG)
+  
 #### Create employee
-![Update Employee](/images/edit-employee.JPG)
+![Create Employee](/images/add-employee.JPG)
+  
 #### Update employee
-![All Departments](/images/all-departments.JPG)
+![Update Employee](/images/edit-employee.JPG)
+  
 #### All departments
-![Create Department](/images/add-department.JPG)
+![All Departments](/images/all-departments.JPG)
+  
 #### Create department
-![Update Department](/images/edit-department.JPG)
+![Create Department](/images/add-department.JPG)
+  
 #### Update department
+![Update Department](/images/edit-department.JPG)
+
