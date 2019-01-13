@@ -1,0 +1,29 @@
+{
+  "name": "admin-web-app",
+  "version": "1.0.0",
+  "description": "Node.js, Express.js, MongoDB, PostgreSQL, &amp; Handlebars Application",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Akshat55/Admin-Web-App.git"
+  },
+  "author": "Akshatkumar Patel",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Akshat55/Admin-Web-App/issues"
+  },
+  "homepage": "https://github.com/Akshat55/Admin-Web-App#readme",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "client-sessions": "^0.8.0",
+    "express": "^4.16.4",
+    "express-handlebars": "^3.0.0",
+    "mongoose": "^5.4.3",
+    "pg": "^7.8.0",
+    "pg-hstore": "^2.3.2",
+    "sequelize": "^4.42.0"
+  }
+}
