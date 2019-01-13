@@ -3,7 +3,7 @@
 ## Purpose
 The purpose of this project is to learn & teach backend web developement using Node.js & Express. MongoDb & PostgreSQL are used for storing data.
 
-Link: https://safe-beyond-41834.herokuapp.com/
+### Link: https://safe-beyond-41834.herokuapp.com/
 
 ## Installation & Execution
 1. Navigate into the forked or clone repo from the terminal
